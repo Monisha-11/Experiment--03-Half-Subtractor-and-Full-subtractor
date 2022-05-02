@@ -87,6 +87,11 @@ endmodule
 
 ![OUTPUT](./output2.png)
 
+## Logic Symbol 
+
+![output7](https://user-images.githubusercontent.com/93427240/166179897-cd444c37-1502-4806-9f8e-7c2c0a1b8919.png)
+
+
 ##  RTL realization
 
 ![OUTPUT](./output1.png)
@@ -100,6 +105,11 @@ endmodule
 ## Truthtable
 
 ![OUTPUT](./output5.png)
+
+## Logic Symbol 
+
+![output8](https://user-images.githubusercontent.com/93427240/166179918-1b2b1a08-c129-421e-b3e5-558fe8382913.png)
+
 
 ##  RTL realization
 
